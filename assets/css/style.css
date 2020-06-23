@@ -1,0 +1,107 @@
+/*----------------file app.php-------------------------*/
+body{
+    background-image: url("../img/background.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    background-color: #000000;
+    color: #ffffff;
+}
+
+/*header*/
+h1{
+    font-size: 64px;
+}
+i{
+    padding-left: 30px;
+}
+.content-center{
+    text-align: center;
+    margin-top: 190px;
+}
+.btn-color{
+    background-color: #E50914;
+    color: #ffffff;
+}
+.btn-color:hover{
+    background-color: #E50914;
+    color: #ffffff;
+}
+/*section one*/
+.tabs{
+    margin-top: 19%;
+    display: flex;
+    justify-content: center;
+    background-color: #1C1C1C;
+    height: 22%;
+}
+.tab-item{
+    margin-top: 40px;
+    padding: 0 120px;
+}
+/*section two*/
+.section-tabs{
+    text-align: center;
+}
+.col-st{
+    padding-top: 100px;
+}
+.text-st{
+    font-size: 25px;
+    padding-top: 30px;
+}
+.img-tab{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    position: relative;
+    bottom: 190px;
+}
+/*section three*/
+.img-content{
+    padding-top: 40px;
+}
+.text-lg{
+    font-size: 25px;
+}
+.text-second{
+    padding-top: 12px;
+}
+.text-tab-second{
+    padding-top: 2px
+}
+.text-thirt{
+    padding-top: 21px;
+}
+.text-tab-thirt{
+    padding-top: 5px
+}
+/*section four*/
+.text-center{
+    padding-top: 90px;
+}
+.table{
+    margin-top: 50px;
+}
+.table-color{
+    background-color: #000000;
+}
+/*footer*/
+ul>li>a{
+    color: #ffffff;
+}
+ul>li>a:hover{
+    color: #ffffff;
+    text-decoration: none;
+}
+ul>li{
+    padding: 5px 0;
+    list-style: none;
+}
+.foo{
+    margin-top: 120px;
+}
+.text-foo{
+    padding-left: 40px;
+}
