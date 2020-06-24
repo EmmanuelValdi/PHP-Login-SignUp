@@ -1,5 +1,5 @@
 <?php 
-    require "procesos/consultData.php";
+    require "processes/consultData.php";
 ?>
 <!doctype html>
 <html lang="en">
@@ -13,9 +13,6 @@
 
     <!--index.css-->
     <link rel="stylesheet" href="assets/css/index.css">
-
-    <!--font awesome-->
-    <link rel="stylesheet" href="assets/css/all.min.css">
 
     <title>Login</title>
   </head>

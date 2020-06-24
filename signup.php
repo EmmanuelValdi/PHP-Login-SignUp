@@ -1,5 +1,5 @@
 <?php 
-    require "procesos/recordData.php";
+    require "processes/recordData.php";
 ?>
 <!doctype html>
 <html lang="en">
